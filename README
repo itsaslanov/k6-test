@@ -1,0 +1,10 @@
+## k6 Load Test
+
+Install:
+winget install k6
+
+Run:
+k6 run k6-test.js
+
+Description:
+Simulates traffic to https://www.aziz.kr/ with 2000 virtual users for 20 seconds.
