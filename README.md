@@ -21,8 +21,13 @@ This project uses **k6** to simulate traffic and measure how a website behaves u
 ## 📦 Installation
 
 ### Windows
-```bash
-winget install k6
 
-▶️ Run the Test
-k6 run k6-test.js
+#winget install k6
+
+---  
+
+## ▶️ Run the Test
+
+### Console
+
+#k6 run k6-test.js
