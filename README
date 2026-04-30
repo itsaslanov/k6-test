@@ -1,10 +1,14 @@
-## k6 Load Test
+# 🚀 k6 Load Test
 
-Install:
+Basic load testing setup using **k6** to simulate traffic to a website.
+
+---
+
+## 📦 Installation
+
+### Windows
+```bash
 winget install k6
 
-Run:
+▶️ Run the Test
 k6 run k6-test.js
-
-Description:
-Simulates traffic to https://www.aziz.kr/ with 2000 virtual users for 20 seconds.
