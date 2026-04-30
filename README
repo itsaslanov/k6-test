@@ -1,6 +1,20 @@
-# 🚀 k6 Load Test
+<h1 align="center">🚀 k6 Load Test</h1>
 
-Basic load testing setup using **k6** to simulate traffic to a website.
+<p align="center">
+  Simple and fast load testing setup using <b>k6</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/k6-load--testing-blue" />
+  <img src="https://img.shields.io/badge/status-ready-success" />
+  <img src="https://img.shields.io/badge/performance-test-orange" />
+</p>
+
+---
+
+## 📌 Overview
+
+This project uses **k6** to simulate traffic and measure how a website behaves under load.
 
 ---
 
